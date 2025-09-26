@@ -28,11 +28,12 @@ Techniques:
 
 **📊 Results**
 
-Model	              Accuracy	Precision	Recall	F1-Score
-Logistic Regression	 72.7%	    71.3%	  72.7%	   71.7%
-K-Nearest Neighbors	 89.7%	    89.7%	  89.7%	   89.7%
-Decision Tree	       81.9%	    81.9%	  81.6%	   81.9%
-MLP Neural Network	  72.8%	    73.7%	  72.8%	   71.3%
+| Model                | Accuracy | Precision | Recall | F1-Score |
+|-----------------------|----------|-----------|--------|----------|
+| Logistic Regression   | 72.7%    | 71.3%     | 72.7%  | 71.7%    |
+| K-Nearest Neighbors   | **89.7%** | **89.7%** | **89.7%** | **89.7%** |
+| Decision Tree         | 81.9%    | 81.9%     | 81.6%  | 81.9%    |
+| MLP Neural Network    | 72.8%    | 73.7%     | 72.8%  | 71.3%    |
 
 **🚀 Future Work**
 
