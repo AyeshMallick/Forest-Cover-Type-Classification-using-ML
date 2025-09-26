@@ -5,7 +5,7 @@ This project applies multiple machine learning models to the UCI Forest CoverTyp
 
 **📌 Project Overview**
 
-Goal: Evaluate and compare supervised ML models for classifying forest cover types.
+Goal: Evaluating and comparing supervised ML models for classifying forest cover types.
 
 Models Used:
 
