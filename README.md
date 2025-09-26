@@ -41,14 +41,8 @@ Try ensembling methods like Random Forest or XGBoost.
 
 Applying class-balancing techniques (SMOTE, oversampling).
 
-Deploy best-performing model as a REST API for real-time predictions.
+Deploying the best-performing model as a REST API for real-time predictions.
 
 **🛠️ Tech Stack**
 
-Python
-
-NumPy, Pandas
-
-Scikit-learn
-
-Matplotlib, Seaborn
+Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
